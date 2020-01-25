@@ -10,7 +10,8 @@ Githubは、テンプレートと関連リソースが存在するソース管�
 
 |class-1-1|
 
-例：
+例
+----------------
 新規環境に、スタンドアローン構成の1-NIC BIG-IP VEのPAYGインスタンスをデプロイするためのARMテンプレートは下記となります。
 <https://github.com/F5Networks/f5-azure-arm-templates/tree/master/supported/standalone/1nic/new-stack/payg>
 
@@ -22,3 +23,5 @@ Githubは、テンプレートと関連リソースが存在するソース管�
    :caption: Contents:
    :glob:
 
+   intro
+   module*/module*
