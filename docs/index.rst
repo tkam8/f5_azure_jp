@@ -6,7 +6,7 @@ Microsoft Azure & F5 BIG-IPの簡単ガイド - Index
 
 .. toctree::
    :titlesonly:
-   :maxdepth: 3
+   :maxdepth: 2
    :caption: Contents:
    :glob:
 
