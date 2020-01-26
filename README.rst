@@ -1,14 +1,23 @@
-F5 readthedocs Template
+Microsoft Azure & F5 BIG-IPの簡単ガイド
 ==================
 
-This repository contains the source for F5 readthedocs Template. 
+概要
+-------
+このリポジトリでは、Microsoft Azure上にF5 BIG-IPをデプロイするためのガイドを公開しています。 
 
-To view the documentation please visit:
-
-https://f5-readthedocs-template.readthedocs.io/en/latest/
-
-
-Support
+公開ドキュメント
 -------
 
-Bugs and enhancements can be made by opening an `issue <https://github.com/tkam8/f5-readthedocs-template/issues>`__ within the `GitHub <https://github.com/tkam8/f5-readthedocs-template>`__ repository.
+以下のリンクをご参照ください：
+
+<https://f5-azure-jp.readthedocs.io/ja/latest/index.html>
+
+サポート
+-------
+コンテンツの不備がありましたら、以下の２つ修正方法で実施可能です。
+
+- GitHubのリポジトリをフォーク（Fork）して、　プルリクエスト（Pull Request）で修正を送信
+  
+  - 参考：<https://backlog.com/ja/git-tutorial/>
+
+- GitHubのリポジトリ上で `Issue <https://github.com/tkam8/f5_azure_jp/issues>`_ を開く

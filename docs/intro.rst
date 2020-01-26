@@ -32,7 +32,7 @@ References:
 
 <https://github.com/tkam8/f5_azure_jp>
 
-コンテンツの編集をリクエストしたい場合は、以下の２つ方法で実施可能です。
+コンテンツの不備がありましたら、以下の２つ修正方法で実施可能です。
 
 - GitHubのリポジトリをフォーク（Fork）して、　プルリクエスト（Pull Request）で修正を送信
   
