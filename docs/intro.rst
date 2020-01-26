@@ -24,4 +24,18 @@ Azureの要件
 - 有効なサブスクリプションを持つAzureアカウント
 
 References:
-  - F5 CloudDocs: https://clouddocs.f5.com/cloud/public/v1/azure/Azure_solutions101.html
+  - F5 CloudDocs: <https://clouddocs.f5.com/cloud/public/v1/azure/Azure_solutions101.html>
+
+コンテンツの修正
+-------------------
+このガイドのコンテンツは、完全なDevOps CI / CDパイプラインを活用しており、以下のGitHubリポジトリから取得可能です。
+
+<https://github.com/tkam8/f5_azure_jp>
+
+コンテンツの編集をリクエストしたい場合は、以下の２つ方法で実施可能です。
+
+- GitHubのリポジトリをフォーク（Fork）して、　プルリクエスト（Pull Request）で修正を送信
+  
+  - <https://backlog.com/ja/git-tutorial/>
+
+- GitHubのリポジトリ上で `Issue <https://github.com/tkam8/f5_azure_jp/issues>`_ を開く
