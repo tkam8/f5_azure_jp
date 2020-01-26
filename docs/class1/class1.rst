@@ -3,10 +3,10 @@ F5 NetworksのGitHubリポジトリの概要
 
 Githubは、テンプレートと関連リソースが存在するソース管理システムです。
 
-リポジトリにアクセスするために、以下のリンクをクリックしてください。
-<https://github.com/F5Networks/f5-azure-arm-templates>
+GitHubへARMテンプレートがアップロードされておりますので
+そちらを選択してデプロイを進めていく形となります。
 
-商用版のテンプレートは、**suppported**というフォルダ配下にあります。
+<https://github.com/F5Networks/f5-azure-arm-templates>
 
 .. NOTE::
    **supported**ディレクトリがF5 supportedのテンプレートとなります。
