@@ -81,12 +81,19 @@ Deploy Optionの設定
 Azure上でオプションパラメータの設定を行います。
 必要に応じて、下記のパラメータを設定した上でPurchaseを選択して下さい。
 
-- Resource Group
-- DNS Label
-- Instant Type(2vCPU 4G memory以上、1vCPU毎に2G memoryを追加BETTERは4vCPU、BESTは8vCPUが推奨)
-- Image Name
-- BYOLの場合はLTM/ALLのどちらかより選択
-- PAYGの場合はGOOD/BETTER/BESTと25Mbps/200Mbps/1Gbpsより選択
+- Resource Group: 既存もしくは新規リソースグループを選択
+- DNS Label: 仮想マシンのパブリックDNS名で使用される（＜DNS Label＞.japaneast.cloudapp.azure.com）
+- Instance Name: 仮想マシンの名前
+- Instant Type(2vCPU 4G memory以上、1vCPU毎に2G memoryを追加BETTERは4vCPU、BESTは8vCPUが推奨): デフォルト値Standard_DS2_v2は2vCPU/7G memory
+- Image Name: F5イメージ名
+    
+  - BYOLの場合はLTM/ALLのどちらかより選択 
+  - PAYGの場合はGOOD/BETTER/BESTと25Mbps/200Mbps/1Gbpsより選択
+
+設定例：
+|class-1-9|
+
+|class-1-10|
 
 .. |class-1-1| image:: images/class-1-1.png
 .. |class-1-2| image:: images/class-1-2.png
@@ -96,6 +103,8 @@ Azure上でオプションパラメータの設定を行います。
 .. |class-1-6| image:: images/class-1-6.png
 .. |class-1-7| image:: images/class-1-7.png
 .. |class-1-8| image:: images/class-1-8.png
+.. |class-1-9| image:: images/class-1-9.png
+.. |class-1-10| image:: images/class-1-10.png
 
 .. toctree::
    :titlesonly:
